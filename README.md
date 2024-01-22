@@ -1,2 +1,3 @@
 # messages-for-you
-html,css,js code
+https://lemandnn.github.io/messages-for-you/
+
